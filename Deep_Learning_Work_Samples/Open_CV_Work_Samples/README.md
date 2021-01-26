@@ -1,0 +1,1 @@
+Read input path of the image. Perform preprocessing like removal of background noise, skewness. Perform closing morphology and edge detection using canny edge. Perform contours on the image. Save the contours image in the specified output folder.
